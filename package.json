@@ -1,0 +1,24 @@
+{
+  "name": "note-taking-express-api",
+  "version": "1.0.0",
+  "description": "This is a simple note taking API built in express and mongo db",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Felistas/note-taking-app.git"
+  },
+  "author": "Felistas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Felistas/note-taking-app/issues"
+  },
+  "homepage": "https://github.com/Felistas/note-taking-app#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.13"
+  }
+}
